@@ -1,7 +1,7 @@
 {
-  "name": "smart-connect-core",
+  "name": "di-typeorm-starter",
   "version": "0.0.1",
-  "description": "SmartConnect domain.",
+  "description": "API starter kit based on TypeORM and node-dependency-injection",
   "type": "commonjs",
   "devDependencies": {
     "@ef-carbon/tspm": "^2.2.5",
